@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WhichCard</string>
+    <string name="hello_world">This is a second Screen!</string>\
+
+
+    <string name="enter_amount">Enter Amount</string>
+
+
+    <string name="pick_type"> Pick Type of Purchase</string>
+    <string name="gen">General</string>
+    <string name="rest">Restaurant</string>
+    <string name="gas">Gas</string>
+    <string name="travel">Travel</string>
+    <string name="costco">Costco</string>
+
+    <string name="go_button">Go!</string>
+</resources>
